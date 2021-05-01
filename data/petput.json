@@ -1,0 +1,18 @@
+{
+  "id": 42157,
+  "category": {
+    "id": 0,
+    "name": "dog"
+  },
+  "name": "Mutley",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "cartoon"
+    }
+  ],
+  "status": "adopted"
+}
